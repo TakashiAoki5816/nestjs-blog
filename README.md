@@ -1,5 +1,4 @@
 # nestjs-blog
-**nest.js チュートリアル**
 
 ### Usage
 ```
