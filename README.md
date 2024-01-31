@@ -1,7 +1,7 @@
 # nestjs-blog
-###### nest.js チュートリアル
+**nest.js チュートリアル**
 
-Usage
+### Usage
 ```
 cd nestjs-blog-frontend
 npm run dev
